@@ -1,0 +1,11 @@
+<body dark-mode
+body.dark-mode {
+  background-color: #4bc725;
+  color: #ecf0f1;
+}
+body.dark-mode .container {
+  background-color: #03db4b;
+}
+body.dark-mode a {
+  color: #3498db;
+}
